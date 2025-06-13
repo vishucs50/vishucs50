@@ -6,22 +6,31 @@ I'm passionate about building scalable, real-time web applications using modern 
 
 ---
 
-### 🧰 Tech Stack
-#### 🧪 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-85%25-green?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-80%25-grey?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-75%25-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-70%25-black?style=for-the-badge&logo=socket.io&logoColor=white)
+### 🧰 Tech Stack (Dark Mode with Progress Bars)
 
-#### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-90%25-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-80%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-75%25-3C3C3C?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-75%25-black?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-70%25-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+#### 🧪 Languages & Frameworks
+```html
+<svg fill="none" viewBox="0 0 400 25" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1f1f1f" rx="4"/>
+  <text x="10" y="17" fill="#f0db4f" font-family="Arial" font-size="14">JavaScript</text>
+  <rect x="100" y="8" width="270" height="10" rx="2" fill="#f0db4f"/>
+</svg>
+```
+```html
+<svg fill="none" viewBox="0 0 400 25" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1f1f1f" rx="4"/>
+  <text x="10" y="17" fill="#61dafb" font-family="Arial" font-size="14">React</text>
+  <rect x="100" y="8" width="240" height="10" rx="2" fill="#61dafb"/>
+</svg>
+```
+```html
+<svg fill="none" viewBox="0 0 400 25" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1f1f1f" rx="4"/>
+  <text x="10" y="17" fill="#8cc84b" font-family="Arial" font-size="14">Node.js</text>
+  <rect x="100" y="8" width="260" height="10" rx="2" fill="#8cc84b"/>
+</svg>
+```
+*(Add similar progress SVGs for Express, MongoDB, etc. as desired)*
 
 ---
 
