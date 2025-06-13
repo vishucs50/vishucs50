@@ -9,7 +9,7 @@
 
 #### 🧪 Languages & Frameworks
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=flat-square&logo=javascript)
+- ![JavaScript](https://img.shields.io/badge/JavaScript?style=flat-square&logo=javascript)
 - ![React](https://img.shields.io/badge/React-50%25-61DAFB?style=flat-square&logo=react)
 - ![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat-square&logo=node.js)
 - ![Express](https://img.shields.io/badge/Express.js-85%25-grey?style=flat-square&logo=express)
