@@ -9,18 +9,18 @@
 
 #### 🧪 Languages & Frameworks
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-95%25-yellow?style=flat-square&logo=javascript)
-- ![React](https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=flat-square&logo=javascript)
+- ![React](https://img.shields.io/badge/React-50%25-61DAFB?style=flat-square&logo=react)
 - ![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat-square&logo=node.js)
 - ![Express](https://img.shields.io/badge/Express.js-85%25-grey?style=flat-square&logo=express)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-80%25-47A248?style=flat-square&logo=mongodb)
-- ![EJS](https://img.shields.io/badge/EJS-70%25-black?style=flat-square)
-- ![Socket.IO](https://img.shields.io/badge/Socket.IO-75%25-black?style=flat-square&logo=socket.io)
+- ![EJS](https://img.shields.io/badge/EJS-100%25-black?style=flat-square)
+- ![Socket.IO](https://img.shields.io/badge/Socket.IO-45%25-black?style=flat-square&logo=socket.io)
 
 #### 🛠 Tools & Platforms
 
--  ![Git](https://img.shields.io/badge/Git-90%25-F05032?style=flat-square&logo=git)
-- ![GitHub](https://img.shields.io/badge/GitHub-95%25-181717?style=flat-square&logo=github)
+-  ![Git](https://img.shields.io/badge/Git-20%25-F05032?style=flat-square&logo=git)
+- ![GitHub](https://img.shields.io/badge/GitHub-20%25-181717?style=flat-square&logo=github)
 - ![Postman](https://img.shields.io/badge/Postman-85%25-FF6C37?style=flat-square&logo=postman)
 - ![Render](https://img.shields.io/badge/Render-80%25-3C3C3C?style=flat-square)
 - ![Vercel](https://img.shields.io/badge/Vercel-75%25-black?style=flat-square&logo=vercel)
@@ -30,7 +30,7 @@
 
 - ![Passport.js](https://img.shields.io/badge/Passport.js-75%25-34a853?style=flat-square)
 - ![MVC](https://img.shields.io/badge/MVC-85%25-orange?style=flat-square)
-- ![WebSocket](https://img.shields.io/badge/WebSocket-75%25-black?style=flat-square)
+- ![WebSocket](https://img.shields.io/badge/WebSocket-45%25-black?style=flat-square)
 - ![Auth](https://img.shields.io/badge/Auth-85%25-blue?style=flat-square)
 
 ---
