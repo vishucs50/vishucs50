@@ -2,18 +2,26 @@
 
 🚀 Full Stack Developer | MERN Stack | Open to Internships and Freelance Projects
 
-I love solving problems.
+I'm passionate about building scalable, real-time web applications using modern JavaScript technologies. I love solving problems, contributing to open source, and collaborating in team-based environments.
 
 ---
 
 ### 🧰 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-white?style=flat&logo=socket.io)
+#### 🧪 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-85%25-green?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-80%25-grey?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-75%25-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-70%25-black?style=for-the-badge&logo=socket.io&logoColor=white)
+
+#### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-90%25-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-80%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-75%25-3C3C3C?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-75%25-black?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-70%25-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
 
@@ -35,6 +43,7 @@ I love solving problems.
 
 ### 📈 GitHub Stats
 ![Vishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishucs50&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishucs50&layout=compact&theme=radical)
 
 ---
 
