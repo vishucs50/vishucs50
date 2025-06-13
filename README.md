@@ -10,31 +10,31 @@ I'm passionate about building scalable, real-time web applications using modern 
 
 #### 🧪 Languages & Frameworks
 
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat-square&logo=javascript)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-95%25-yellow?style=flat-square&logo=javascript)
 - **React** ![React](https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react)
-- **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=flat-square&logo=node.js)
-- **Express.js** ![Express](https://img.shields.io/badge/Express.js-80%25-grey?style=flat-square&logo=express)
-- **MongoDB** ![MongoDB](https://img.shields.io/badge/MongoDB-75%25-47A248?style=flat-square&logo=mongodb)
-- **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-70%25-38B2AC?style=flat-square&logo=tailwind-css)
+- **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat-square&logo=node.js)
+- **Express.js** ![Express](https://img.shields.io/badge/Express.js-85%25-grey?style=flat-square&logo=express)
+- **MongoDB** ![MongoDB](https://img.shields.io/badge/MongoDB-80%25-47A248?style=flat-square&logo=mongodb)
+- **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-75%25-38B2AC?style=flat-square&logo=tailwind-css)
 - **EJS** ![EJS](https://img.shields.io/badge/EJS-70%25-black?style=flat-square)
-- **Socket.IO** ![Socket.IO](https://img.shields.io/badge/Socket.IO-70%25-black?style=flat-square&logo=socket.io)
+- **Socket.IO** ![Socket.IO](https://img.shields.io/badge/Socket.IO-75%25-black?style=flat-square&logo=socket.io)
 
 #### 🛠 Tools & Platforms
 
 - **Git** ![Git](https://img.shields.io/badge/Git-90%25-F05032?style=flat-square&logo=git)
-- **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-90%25-181717?style=flat-square&logo=github)
-- **Postman** ![Postman](https://img.shields.io/badge/Postman-80%25-FF6C37?style=flat-square&logo=postman)
-- **Render** ![Render](https://img.shields.io/badge/Render-75%25-3C3C3C?style=flat-square)
+- **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-95%25-181717?style=flat-square&logo=github)
+- **Postman** ![Postman](https://img.shields.io/badge/Postman-85%25-FF6C37?style=flat-square&logo=postman)
+- **Render** ![Render](https://img.shields.io/badge/Render-80%25-3C3C3C?style=flat-square)
 - **Vercel** ![Vercel](https://img.shields.io/badge/Vercel-75%25-black?style=flat-square&logo=vercel)
-- **Cloudinary** ![Cloudinary](https://img.shields.io/badge/Cloudinary-70%25-3448C5?style=flat-square&logo=cloudinary)
+- **Cloudinary** ![Cloudinary](https://img.shields.io/badge/Cloudinary-75%25-3448C5?style=flat-square&logo=cloudinary)
 
 #### 🔐 Auth & Other
 
-- **JWT** ![JWT](https://img.shields.io/badge/JWT-75%25-blueviolet?style=flat-square)
-- **Passport.js** ![Passport.js](https://img.shields.io/badge/Passport.js-70%25-34a853?style=flat-square)
-- **OOP / MVC** ![MVC](https://img.shields.io/badge/MVC-80%25-orange?style=flat-square)
-- **WebSocket** ![WebSocket](https://img.shields.io/badge/WebSocket-70%25-black?style=flat-square)
-- **Authentication** ![Auth](https://img.shields.io/badge/Auth-80%25-blue?style=flat-square)
+- **JWT** ![JWT](https://img.shields.io/badge/JWT-80%25-blueviolet?style=flat-square)
+- **Passport.js** ![Passport.js](https://img.shields.io/badge/Passport.js-75%25-34a853?style=flat-square)
+- **OOP / MVC** ![MVC](https://img.shields.io/badge/MVC-85%25-orange?style=flat-square)
+- **WebSocket** ![WebSocket](https://img.shields.io/badge/WebSocket-75%25-black?style=flat-square)
+- **Authentication** ![Auth](https://img.shields.io/badge/Auth-85%25-blue?style=flat-square)
 
 ---
 
