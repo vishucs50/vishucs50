@@ -6,31 +6,35 @@ I'm passionate about building scalable, real-time web applications using modern 
 
 ---
 
-### 🧰 Tech Stack (Dark Mode with Progress Bars)
+### 🧰 Tech Stack (Dark Theme with Badge-Based Progress)
 
 #### 🧪 Languages & Frameworks
-```html
-<svg fill="none" viewBox="0 0 400 25" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#1f1f1f" rx="4"/>
-  <text x="10" y="17" fill="#f0db4f" font-family="Arial" font-size="14">JavaScript</text>
-  <rect x="100" y="8" width="270" height="10" rx="2" fill="#f0db4f"/>
-</svg>
-```
-```html
-<svg fill="none" viewBox="0 0 400 25" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#1f1f1f" rx="4"/>
-  <text x="10" y="17" fill="#61dafb" font-family="Arial" font-size="14">React</text>
-  <rect x="100" y="8" width="240" height="10" rx="2" fill="#61dafb"/>
-</svg>
-```
-```html
-<svg fill="none" viewBox="0 0 400 25" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#1f1f1f" rx="4"/>
-  <text x="10" y="17" fill="#8cc84b" font-family="Arial" font-size="14">Node.js</text>
-  <rect x="100" y="8" width="260" height="10" rx="2" fill="#8cc84b"/>
-</svg>
-```
-*(Add similar progress SVGs for Express, MongoDB, etc. as desired)*
+
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat-square&logo=javascript)
+- **React** ![React](https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react)
+- **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=flat-square&logo=node.js)
+- **Express.js** ![Express](https://img.shields.io/badge/Express.js-80%25-grey?style=flat-square&logo=express)
+- **MongoDB** ![MongoDB](https://img.shields.io/badge/MongoDB-75%25-47A248?style=flat-square&logo=mongodb)
+- **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-70%25-38B2AC?style=flat-square&logo=tailwind-css)
+- **EJS** ![EJS](https://img.shields.io/badge/EJS-70%25-black?style=flat-square)
+- **Socket.IO** ![Socket.IO](https://img.shields.io/badge/Socket.IO-70%25-black?style=flat-square&logo=socket.io)
+
+#### 🛠 Tools & Platforms
+
+- **Git** ![Git](https://img.shields.io/badge/Git-90%25-F05032?style=flat-square&logo=git)
+- **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-90%25-181717?style=flat-square&logo=github)
+- **Postman** ![Postman](https://img.shields.io/badge/Postman-80%25-FF6C37?style=flat-square&logo=postman)
+- **Render** ![Render](https://img.shields.io/badge/Render-75%25-3C3C3C?style=flat-square)
+- **Vercel** ![Vercel](https://img.shields.io/badge/Vercel-75%25-black?style=flat-square&logo=vercel)
+- **Cloudinary** ![Cloudinary](https://img.shields.io/badge/Cloudinary-70%25-3448C5?style=flat-square&logo=cloudinary)
+
+#### 🔐 Auth & Other
+
+- **JWT** ![JWT](https://img.shields.io/badge/JWT-75%25-blueviolet?style=flat-square)
+- **Passport.js** ![Passport.js](https://img.shields.io/badge/Passport.js-70%25-34a853?style=flat-square)
+- **OOP / MVC** ![MVC](https://img.shields.io/badge/MVC-80%25-orange?style=flat-square)
+- **WebSocket** ![WebSocket](https://img.shields.io/badge/WebSocket-70%25-black?style=flat-square)
+- **Authentication** ![Auth](https://img.shields.io/badge/Auth-80%25-blue?style=flat-square)
 
 ---
 
