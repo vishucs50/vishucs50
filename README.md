@@ -19,7 +19,7 @@ Full Stack Developer proficient in the MERN stack with hands-on experience build
 **Tools & Platforms:** Git, GitHub, Postman, Cloudinary, Render, Vercel  
 **Languages:** JavaScript, Python, C, C++, Java  
 **Other:** OOP, Passport.js, Firebase, JWT, MVC Architecture, WebSocket, Authentication  
-**Coding Practice:** LeetCode (300+ problems), GeeksforGeeks (70+ problems)  
+**Coding Practice:** LeetCode (350+ problems), GeeksforGeeks (100+ problems)  
 
 ---
 
