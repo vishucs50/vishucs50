@@ -44,12 +44,7 @@ Full Stack Developer proficient in the MERN stack with hands-on experience build
 
 ---
 
-### 💼 Experience
-**Technical Team Member – Fraternity of Young Innovators, Chennai** *(Apr 2025 – Present)*  
-- Developed backend APIs and frontend logic using **React** and **Express.js**  
-- Collaborated in Agile team environment to build scalable web solutions  
 
----
 
 ### 🎓 Education
 **Vellore Institute of Technology (VIT), India**  
