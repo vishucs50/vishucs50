@@ -49,7 +49,6 @@ Full Stack Developer proficient in the MERN stack with hands-on experience build
 ### 🎓 Education
 **Vellore Institute of Technology (VIT), India**  
 B.Tech, Computer Science and Engineering *(2024 – 2028)*  
-📊 **CGPA:** 9.24  
 
 ---
 
